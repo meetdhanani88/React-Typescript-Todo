@@ -49,4 +49,4 @@ const Provider: React.FC<{ children?: React.ReactNode }> = (props) => {
 }
 
 
-export default Provider;
+export default Provider
